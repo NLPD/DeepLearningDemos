@@ -8,7 +8,7 @@ Pima Indians Diabetes
 * Keras
 * TensorFlow
 
-### Keywords
+### Tips
 * Pure numerical
 * Binary classification
 * Fully connected network
