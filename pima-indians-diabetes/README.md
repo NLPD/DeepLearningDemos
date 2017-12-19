@@ -11,3 +11,4 @@ Pima Indians Diabetes
 ### Keywords
 * Pure numerical
 * Binary classification
+* Fully connected network
