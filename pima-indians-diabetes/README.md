@@ -12,3 +12,4 @@ Pima Indians Diabetes
 * Pure numerical
 * Binary classification
 * Fully connected network
+* Keras & Sklearn
